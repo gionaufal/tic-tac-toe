@@ -1,2 +1,2 @@
 # tic-tac-toe
-a simple two player tic tac toe game
+A simple two player tic tac toe game built for FreeCodeCamp and The Odin Project
