@@ -3,7 +3,7 @@ h1 {
 }
 .piece {
   border: 5px solid black;
-  border-radius: 30px;
+  border-radius: 5px;
   margin:2px;
   width:100px;
   height:100px;
