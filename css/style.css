@@ -3,7 +3,7 @@ h1 {
 }
 .piece {
   border: 5px solid black;
-  border-radius: 5px;
+  border-radius: 10px;
   margin:2px;
   width:100px;
   height:100px;
@@ -25,3 +25,4 @@ h1 {
 .won {
   background-color:red;
 }
+
